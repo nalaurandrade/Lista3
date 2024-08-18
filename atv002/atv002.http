@@ -1,0 +1,6 @@
+@atv002_HostAddress = http://localhost:5022
+
+GET {{atv002_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
